@@ -1,5 +1,5 @@
 # my profile
 
-* name : 'andhika'
-* github : 'gihub.com/andhikasaja'
-* email : 'siewom007@gmail.com'
+* name : 'joshua nathaniel m'
+* github : 'gihub.com/joshuanatanielnm'
+* email : 'clsjoshua@gmail.com'
